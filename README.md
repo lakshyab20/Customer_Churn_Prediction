@@ -4,8 +4,7 @@
 
 <b>Steps:</b>
 
-1) Data Collection 
-2) EDA
-3) Data Preprocessing
-4) Model Building
-5) Model Evaluation and Improving Model
+1) EDA
+2) Data Preprocessing
+3) Model Building
+4) Model Evaluation and Improving Model
